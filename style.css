@@ -1,0 +1,28 @@
+#box {
+width: 500px;
+height: 500px;
+border:1px dotted blue;
+padding: 10px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+h1 {
+
+font-family: "Helvetica Neue", monospace;
+ font-size: 3em;
+  font-weight: 100;
+  margin-bottom: -10px;
+
+
+}
+
+p{
+
+font-family: "Helvetica Neue", monospace;
+ font-size: 1em;
+  font-weight: 100;
+  margin-bottom: 10px;
+
+
+
+}
